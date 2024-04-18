@@ -6,7 +6,7 @@
 
 ## :sassy_man:  About me
 - :technologist: I'm a Software Developer with more than 5000 hours of building, deploying, and maintaining applications.
-- :school: Student at University of Georgia, Hyderabad
+- :school: Student at University of Georgia, Georgia
 
 
 ## 💻 Tech Stack
